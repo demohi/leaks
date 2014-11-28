@@ -1,0 +1,27 @@
+{
+  "name": "leaks",
+  "version": "0.0.1",
+  "description": "memory leaks checker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/demohi/leaks.git"
+  },
+  "keywords": [
+    "memory",
+    "leaks"
+  ],
+  "author": "mdemo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/demohi/leaks/issues"
+  },
+  "homepage": "https://github.com/demohi/leaks",
+  "dependencies": {
+    "cheerio": "^0.18.0",
+    "request": "^2.48.0"
+  }
+}
